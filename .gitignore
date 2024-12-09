@@ -1,0 +1,34 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.env
+
+db.sqlite3
+/static/
+media/
+/migrations/
+
+
+docker-compose.override.yml
+
+# Celery и Redis
+celerybeat-schedule
+*.pid
+
+
+.idea/
+.venv/
+
+
+
+.DS_Store
+Thumbs.db
+*.swp
+
+
+*.log
+*.out
+*.err
