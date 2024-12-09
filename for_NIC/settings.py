@@ -135,7 +135,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'nookentoktobaev@gmail.com'
-EMAIL_HOST_PASSWORD = 'piwp ulpi tovr vhyg'
+EMAIL_HOST_PASSWORD = '888888888'
 
 
 CELERY_BROKER_URL = 'redis://localhost:6379/0'
